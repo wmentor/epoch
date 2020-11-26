@@ -24,7 +24,7 @@ func main() {
 }
 ```
 
-Format supports next options:
+Format options:
 
 * %B - month "January";
 * %b - month short "Jan";
